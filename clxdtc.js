@@ -1,14 +1,14 @@
 function printClxDtc() {
   for (let i = 1; i <= 100; i++) {
     let result = i;
-    if (i % 3 === 0 && i % 5 === 0) {
-      result = 'CLXDTC';
+    if (i % 3 === 0) {
+      result = 'CLX';
     } 
     if (i % 5 === 0) {
       result = 'DTC';
     }
-    if (i % 3 === 0) {
-      result = 'CLX';
+    if (i % 3 === 0 && i % 5 === 0) {
+      result = 'CLXDTC';
     } 
     console.log(result);
   }
