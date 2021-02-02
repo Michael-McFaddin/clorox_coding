@@ -11,7 +11,7 @@ This file contains my answer to the coding challenge: The program should print t
 
 1. Download the answer file: clxdtc.js
 2. Make sure you have node.js installed. [How to install Node.js](https://nodejs.org/en/)
-3. After installing node.js, type node clxdtc.js on the command line.
+3. After installing node.js, type node clxdtc.js on the command line and hit return/enter.
 ```
 node clxdtc.js
 ```
@@ -19,7 +19,7 @@ node clxdtc.js
 <br/>
 <br/>
 
-## why_clxdtc.txt
+## why_clxdtc.pdf
 
 This text file contains the answer to why I want this role at CLX DTC.
 
